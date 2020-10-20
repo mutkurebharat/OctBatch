@@ -1,3 +1,2 @@
 First New File Created by Sep Batch Student.
-Modified in master branch.
-Modified to test git merge.
+
