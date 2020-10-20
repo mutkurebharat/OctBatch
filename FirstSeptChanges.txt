@@ -1,1 +1,14 @@
 First New File Created by Sep Batch Student.
+
+To list branches: git branch
+
+Creating a new branch: Git branch name
+
+Switching to another branch: Git checkout <branchname>
+
+Creating and Switching to new branch: Git checkout -b <branchname>
+
+Renaming a branch: Git branch -m <oldname> <newname>
+
+Renaming current branch: Git branch -m <oldname> <newname>
+
